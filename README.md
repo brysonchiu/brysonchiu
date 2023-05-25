@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Bryson
 **Austin, TX :taco:&emsp;&larr;&emsp;Seattle, WA :evergreen_tree:&emsp;&larr;&emsp;Dallas, TX :cowboy_hat_face:**
 
-<br />
 
 ### Curretly, I'm...
 - :building_construction: working on a application to crowdsource apparel photography
