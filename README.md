@@ -3,7 +3,7 @@
 
 
 ### Curretly, I'm...
-- :building_construction: working Netspend.com
+- :building_construction: working on Netspend.com
 - :book: learning D3
 - :metal: listening to my favorite podcasts&mdash;Syntax, Tony Kornheiser Show,  Grumpy Old Geeks
 - :film_projector: watching Top Chef
