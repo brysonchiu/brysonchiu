@@ -3,12 +3,12 @@
 
 
 ### Curretly, I'm...
-- :building_construction: working on a application to crowdsource apparel photography
-- :book: learning Svelte and SvelteKit
-- :metal: listening to the Foals
-- :film_projector: watching Succession
+- :building_construction: working Netspend.com
+- :book: learning D3
+- :metal: listening to my favorite podcasts&mdash;Syntax, Tony Kornheiser Show,  Grumpy Old Geeks
+- :film_projector: watching Top Chef
 
-*Updated 5/2023*
+*Updated 5/2024*
 
 <br />
 
